@@ -1,0 +1,11 @@
+{
+  "name": "cart_backend",
+  "version": "1.0.0",
+  "description": "A node supported backend for my cart application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moksh parashar",
+  "license": "ISC"
+}

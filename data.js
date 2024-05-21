@@ -30,3 +30,6 @@ export const products = [
     price: 39.99,
   },
 ];
+
+
+// Data for the products
